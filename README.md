@@ -161,7 +161,7 @@ Languages & Tools:
         <a href="https://github.com/JharnaSaxena">
             <img src="https://img.shields.io/badge/GitHub-JharnaSaxena-181717?style=for-the-badge&logo=github" alt="GitHub">
         </a>
-        <a href="https://www.linkedin.com/in/Jharna_Saxena/">
+        <a href="https://www.linkedin.com/in/jharna-saxena-502a6a2ba/">
             <img src="https://img.shields.io/badge/LinkedIn-Jharna_Saxena-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
         </a>
         <a href="https://www.instagram.com/studywith.gremlin/">
