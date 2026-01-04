@@ -1,7 +1,6 @@
  <div align="center">
 
 <!-- ANIMATED TITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&duration=3000&pause=1000&color=FF66A3&center=true&vCenter=true&width=600&height=80&lines=🌸+Jharna+Saxena+🌸;✨+CS-AI+%26+Data+Science;🌟+REYES+UC+Berkeley+Mentee" />
 
 <!-- SUBTITLE -->
 <h3 align="center" style="color:#cc6699; margin-top:20px;">
