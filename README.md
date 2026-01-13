@@ -165,7 +165,7 @@ Languages & Tools:
 <!-- Footer -->
 <div style="text-align: center; margin-top: 20px;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=footer&text=Made+with+💖+by+Jharna&fontSize=20&fontColor=ff66a3" alt="Footer Image">
-    <p style="color: #ff66a3; margin-top: 20px;"><i>"From a hesitant freshman to a Berkeley mentee - magic happens outside your comfort zone!"</i></p>
+    <p style="color: #ff66a3; margin-top: 20px;"><i>"From a hesitant freshman to a Berkeley mentee-magic happens outside your comfort zone!"</i></p>
     <p style="color: #cc6699;">⭐ Feel free to star some repos if you like my work! ⭐</p>
 </div>
 
