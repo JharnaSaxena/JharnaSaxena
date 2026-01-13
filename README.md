@@ -40,17 +40,12 @@
 ## 🎀 **About Me**
 name: Jharna Saxena
 pronouns: She/Her
-education:
-  - B.Tech in Computer Science (AI)
-  - BS in Data Science
-current_role: REYES 2025 Mentee @ UC Berkeley
+past_role: REYES 2025 Mentee @ UC Berkeley
 interests:
   - Artificial Intelligence
   - Data Science
   - Research
   - Python Development
-fun_fact: "I'm weak in math but still pursuing Data Science! ✨"
-motto: "From skipping Day 1 for Harry Potter to finishing strong at Berkeley!"
 📊 GitHub Stats
 <div align="center"> <!-- STATS CARD --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JharnaSaxena&show_icons=true&theme=rose_pink&hide_border=true&bg_color=fff0f5&title_color=ff66a3&icon_color=ff99cc&text_color=5a3d5c" alt="GitHub Stats" /> <!-- STREAK STATS --> <img height="180em" src="https://streak-stats.demolab.com/?user=JharnaSaxena&theme=rose_pink&hide_border=true&background=fff0f5&ring=ff66a3&fire=ff3366&currStreakLabel=ff66a3" alt="GitHub Streak" /> <!-- TOP LANGUAGES --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JharnaSaxena&layout=compact&theme=rose_pink&hide_border=true&bg_color=fff0f5&title_color=ff66a3&text_color=5a3d5c" alt="Top Languages" /></div><!-- CONTRIBUTION SNAKE --><div align="center"> <img src="https://raw.githubusercontent.com/JharnaSaxena/JharnaSaxena/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> </div>
 🌟 My Journey
