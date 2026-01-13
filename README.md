@@ -68,10 +68,8 @@ Languages & Tools:
     <ul style="list-style: none; padding: 0;">
         <li>📝 Independently drafted literature review</li>
         <li>💌 Sent 7 follow-up emails (persistence is key!)</li>
-        <li>🎓 Earned certificate in December 2025</li>
         <li>🦋 Learned research writing from scratch</li>
     </ul>
-    <p><i>"Sometimes the only qualification you need is the courage to apply."</i></p>
 </div>
 
 <!-- Tech Stack -->
@@ -140,10 +138,7 @@ Languages & Tools:
 <div style="text-align: center; background: #fff5f8; padding: 20px; border-radius: 15px; margin: 20px;">
     <h2>🎪 Fun Facts</h2>
     <ul style="list-style: none; padding: 0;">
-        <li>✨ I'm weak in math but still pursuing Data Science!</li>
         <li>🌸 Skipped Day 1 of Python4Physics for Harry Potter!</li>
-        <li>🎀 Love all things soft, pastel, and magical</li>
-        <li>💌 Sent 7 follow-up emails to get my research certificate</li>
         <li>🌟 Believe in adding softness to everything, even code</li>
     </ul>
 </div>
