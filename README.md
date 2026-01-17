@@ -46,8 +46,7 @@ interests:
   - Data Science
   - Research
   - Python Development
-📊 GitHub Stats
-<div align="center"> <!-- STATS CARD --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JharnaSaxena&show_icons=true&theme=rose_pink&hide_border=true&bg_color=fff0f5&title_color=ff66a3&icon_color=ff99cc&text_color=5a3d5c" alt="GitHub Stats" /> <!-- STREAK STATS --> <img height="180em" src="https://streak-stats.demolab.com/?user=JharnaSaxena&theme=rose_pink&hide_border=true&background=fff0f5&ring=ff66a3&fire=ff3366&currStreakLabel=ff66a3" alt="GitHub Streak" /> <!-- TOP LANGUAGES --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JharnaSaxena&layout=compact&theme=rose_pink&hide_border=true&bg_color=fff0f5&title_color=ff66a3&text_color=5a3d5c" alt="Top Languages" /></div><!-- CONTRIBUTION SNAKE --><div align="center"> <img src="https://raw.githubusercontent.com/JharnaSaxena/JharnaSaxena/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> </div>
+
 🌟 My Journey
 <table align="center"> <tr> <td align="center" width="200"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"> <br><b>February 2025</b> <br><sub>Freshman with SGPA: 7.0</sub> <br><sub>Almost didn't apply for REYES</sub> </td> <td align="center">→🌸→</td> <td align="center" width="200"> <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="80"> <br><b>June 2025</b> <br><sub>REYES General Program</sub> <br><sub>@ UC Berkeley</sub> </td> <td align="center">→✨→</td> <td align="center" width="200"> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80"> <br><b>July 2025</b> <br><sub>Research Mentee</sub> <br><sub>Project on E-commerce Bias</sub> </td> </tr> </table>
 💻 Tech Stack
