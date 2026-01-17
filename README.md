@@ -70,7 +70,8 @@ Languages & Tools:
         <li>🦋 Learned research writing from scratch</li>
     </ul>
 </div>
-
+📊 GitHub Stats
+<div align="center"> <!-- STATS CARD --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JharnaSaxena&show_icons=true&theme=rose_pink&hide_border=true&bg_color=fff0f5&title_color=ff66a3&icon_color=ff99cc&text_color=5a3d5c" alt="GitHub Stats" /> <!-- STREAK STATS --> <img height="180em" src="https://streak-stats.demolab.com/?user=JharnaSaxena&theme=rose_pink&hide_border=true&background=fff0f5&ring=ff66a3&fire=ff3366&currStreakLabel=ff66a3" alt="GitHub Streak" /> <!-- TOP LANGUAGES --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JharnaSaxena&layout=compact&theme=rose_pink&hide_border=true&bg_color=fff0f5&title_color=ff66a3&text_color=5a3d5c" alt="Top Languages" /></div><!-- CONTRIBUTION SNAKE --><div align="center"> <img src="https://raw.githubusercontent.com/JharnaSaxena/JharnaSaxena/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> </div>
 <!-- Tech Stack -->
 <div style="text-align: center; margin: 20px;">
     <h2>💻 Tech Stack</h2>
