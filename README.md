@@ -145,7 +145,7 @@ Languages & Tools:
 
 <!-- Contact -->
 <div style="text-align: center; margin: 20px;">
-    <h2>📞 Let's Connect!</h2>
+    <h2>📞 Connect with me!</h2>
     <div>
         <a href="https://github.com/JharnaSaxena">
             <img src="https://img.shields.io/badge/GitHub-JharnaSaxena-181717?style=for-the-badge&logo=github" alt="GitHub">
