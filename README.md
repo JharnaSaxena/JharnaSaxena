@@ -2,7 +2,7 @@
 
 <!-- ANIMATED TITLE -->
 
-<!-- SUBTITLE -->
+<!-- SUBTITLE -->   
 <h3 align="center" style="color:#cc6699; margin-top:20px;">   
   <i>Making magic happen with code & research ✨</i>
 </h3>
