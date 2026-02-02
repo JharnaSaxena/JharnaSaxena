@@ -1,9 +1,9 @@
- <div align="center">
+  <div align="center">
 
 <!-- ANIMATED TITLE -->
 
 <!-- SUBTITLE -->   
-<h3 align="center" style="color:#cc6699; margin-top:20px;">   
+<h3 align="center" style="color:#cc6699; margin-top:30px;">   
   <i>Making magic happen with code & research ✨</i>
 </h3>
 
