@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/🎓-LaunchX_Scholar_'26-ff99cc?style=for-the-badge" alt="LaunchX Scholar" />
   <img src="https://img.shields.io/badge/💰-SheFi_Scholar_'26-ff66a3?style=for-the-badge" alt="SheFi Scholar" />
   <img src="https://img.shields.io/badge/✈️-한양대_HOPE_'25-003153?style=for-the-badge" alt="Hanyang University" />
-  <img src="https://img.shields.io/badge/🔬-UC_Berkeley_Research_'25-003262?style=for-the-badge" alt="UC Berkeley" />
+  <img src="https://img.shields.io/badge/🔬-UC_Berkeley_REYES_'25-003262?style=for-the-badge" alt="UC Berkeley" />
   <img src="https://img.shields.io/badge/🚀-EdTech_Founder-cc6699?style=for-the-badge" alt="EdTech Founder" />
   <img src="https://img.shields.io/badge/💖-She%2FHer-FF69B4?style=for-the-badge" alt="Pronouns" />
   <img src="https://img.shields.io/badge/✅-Verified_Profile-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Verified" />
@@ -47,7 +47,7 @@
 Hi, I'm **Jharna Saxena**, a Computer Science student at JK Lakshmipat University (Jaipur) with a passion for building things that sit at the intersection of data, systems, and real-world impact.
 
 - 🌏 **International Experience:** Completed the HOPE Program at **Hanyang University, Seoul**, studying Modern Society & Marketing and Korean for Beginners.
-- 🔬 **Research:** Former REYES 2025 Mentee at **UC Berkeley**, researching algorithmic bias in e-commerce recommendation systems.
+- 🔬 **Research:** Former REYES 2025 Mentee at **UC Berkeley**,  algorithmic bias in e-commerce recommendation systems.
 - 🚀 **Entrepreneurship:** **LaunchX Scholar '26** (MIT-affiliated), building my ed-tech startup, **Study with Gremlin**.
 - 💰 **Web3 Enthusiast:** **SheFi Scholar '26**, diving deep into the world of crypto, hardware wallets, and blockchain.
 - 💡 **Builder:** From satellite trajectory models to voice assistants, I love turning ideas into working code.
@@ -96,7 +96,7 @@ Hi, I'm **Jharna Saxena**, a Computer Science student at JK Lakshmipat Universit
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </div>
 
-## 🔬 **Research & Projects**
+## 🔬 **Projects**
 
 <div align="center">
   <table style="width: 100%; border-collapse: collapse;">
@@ -119,7 +119,7 @@ Hi, I'm **Jharna Saxena**, a Computer Science student at JK Lakshmipat Universit
         <td>Streamlit, Python, HTML/CSS</td>
       </tr>
       <tr>
-        <td><b>Algorithmic Bias Research @ UC Berkeley</b></td>
+        <td><b>Algorithmic Bias @ UC Berkeley</b></td>
         <td>Independently authored a formal literature review on fairness and data integrity in e-commerce recommendation systems.</td>
         <td>Research, Literature Review, LaTeX</td>
       </tr>
