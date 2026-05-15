@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <!-- ANIMATED TITLE -->
@@ -11,7 +13,6 @@
   <img src="https://img.shields.io/badge/🎓-LaunchX_Scholar_'26-ff99cc?style=for-the-badge" alt="LaunchX Scholar" />
   <img src="https://img.shields.io/badge/💰-SheFi_Scholar_'26-ff66a3?style=for-the-badge" alt="SheFi Scholar" />
   <img src="https://img.shields.io/badge/✈️-한양대_HOPE_'25-003153?style=for-the-badge" alt="Hanyang University" />
-  <img src="https://img.shields.io/badge/🔬-UC_Berkeley_REYES_'25-003262?style=for-the-badge" alt="UC Berkeley" />
   <img src="https://img.shields.io/badge/🚀-EdTech_Founder-cc6699?style=for-the-badge" alt="EdTech Founder" />
   <img src="https://img.shields.io/badge/💖-She%2FHer-FF69B4?style=for-the-badge" alt="Pronouns" />
   <img src="https://img.shields.io/badge/✅-Verified_Profile-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Verified" />
@@ -47,7 +48,7 @@
 Hi, I'm **Jharna Saxena**, a Computer Science student at JK Lakshmipat University (Jaipur) with a passion for building things that sit at the intersection of data, systems, and real-world impact.
 
 - 🌏 **International Experience:** Completed the HOPE Program at **Hanyang University, Seoul**, studying Modern Society & Marketing and Korean for Beginners.
-- 🔬 **Research:** Former REYES 2025 Mentee at **UC Berkeley**,  algorithmic bias in e-commerce recommendation systems.
+- 🔬 **Research:** Algorithmic bias in e-commerce recommendation systems.
 - 🚀 **Entrepreneurship:** **LaunchX Scholar '26** (MIT-affiliated), building my ed-tech startup, **Study with Gremlin**.
 - 💰 **Web3 Enthusiast:** **SheFi Scholar '26**, diving deep into the world of crypto, hardware wallets, and blockchain.
 - 💡 **Builder:** From satellite trajectory models to voice assistants, I love turning ideas into working code.
@@ -59,7 +60,6 @@ Hi, I'm **Jharna Saxena**, a Computer Science student at JK Lakshmipat Universit
   <tr>
     <td align="center" width="200"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"> <br><b>February 2025</b> <br><sub>Freshman, SGPA: 7.0</sub> <br><sub>Almost didn't apply for anything.</sub>  </td>
     <td align="center">→🌸→</td>
-    <td align="center" width="200"> <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="80"> <br><b>June 2025</b> <br><sub>REYES Research Mentee</sub> <br><sub>@ UC Berkeley</sub>  </td>
     <td align="center">→✨→</td>
     <td align="center" width="200"> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80"> <br><b>July 2025</b> <br><sub>Hanyang University (HOPE)</sub> <br><sub>Seoul, South Korea</sub>  </td>
     <td align="center">→🚀→</td>
@@ -119,11 +119,6 @@ Hi, I'm **Jharna Saxena**, a Computer Science student at JK Lakshmipat Universit
         <td>Streamlit, Python, HTML/CSS</td>
       </tr>
       <tr>
-        <td><b>Algorithmic Bias @ UC Berkeley</b></td>
-        <td>Independently authored a formal literature review on fairness and data integrity in e-commerce recommendation systems.</td>
-        <td>Research, Literature Review, LaTeX</td>
-      </tr>
-      <tr>
         <td><b>S.T.A.R.K Virtual Assistant</b></td>
         <td>Voice-enabled assistant with weather API, authentication, and a data visualization dashboard (CS50 Python final project).</td>
         <td>Python, APIs, JSON</td>
@@ -144,7 +139,6 @@ Hi, I'm **Jharna Saxena**, a Computer Science student at JK Lakshmipat Universit
   <img src="https://img.shields.io/badge/LaunchX_Scholar_'26-FF6F61?style=flat-square&logo=mit&logoColor=white" />
   <img src="https://img.shields.io/badge/SheFi_Scholar_'26-FF69B4?style=flat-square&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Hanyang_HOPE_'25-003153?style=flat-square&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/UC_Berkeley_REYES_'25-003262?style=flat-square&logo=berkeley&logoColor=white" />
 </div>
 
 <div style="margin: 20px 0;">
