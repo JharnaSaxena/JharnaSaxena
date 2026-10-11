@@ -219,7 +219,7 @@ Hi, I'm **Jharna** (she/her), a B.Tech Computer Science (AI & Big Data) student 
 | **Jul 2025** | Hanyang University HOPE Program, Seoul. Founded **Study with Gremlin** |
 | **Feb 2026** | **LaunchX Scholar** and **SheFi Cohort 16** |
 | **Jan – Jun 2026** | Semester 4 SGPA **8.86**. Real-time scheduler, satellite risk model, CUDA seminar |
-| **May 2026 →** | HPC research (2200× speedup), Lanczos research, Backend AI Engineer Intern at FlyRank AI |
+| **May 2026 →** | HPC research (2200× speedup), Lanczos research, Backend AI Engineer Intern at FlyRank AI|
 
 </details>
 
